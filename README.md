@@ -17,10 +17,9 @@
 ##
   
 <div>
-  
   <a href="https://www.instagram.com/jvs4nt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jfast007" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  
+  <a href="https://open.spotify.com/user/2252x676k6rkpwq5vymlnchhi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
 
