@@ -28,3 +28,5 @@
 <div>
 <img align="left" alt="Sant-Shinobu" src="https://cdn.discordapp.com/attachments/821196932465950741/885570578742915142/fdb992c5d861c8d9e9400f403ab1f3f6.gif"
 </div>
+  
+  ![Snake animation](https://github.com/dr4gonzz/dr4gonzz/blob/output/github-contribution-grid-snake.svg)
