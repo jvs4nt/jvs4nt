@@ -3,9 +3,9 @@
 ### Hey there! I'm a Brazilian programming student finishing the high school 📖
 
 <div>
-  <a href="https://github.com/dr4gonzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4gonzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4gonzz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/jvs4nt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs4nt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,4 +27,4 @@
   
 
   
-  ![Snake animation](https://github.com/dr4gonzz/dr4gonzz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jvs4nt/jvs4nt/blob/output/github-contribution-grid-snake.svg)
