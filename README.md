@@ -1,6 +1,6 @@
 ## Welcome to Sant's profile!
 
-### Hey there! I'm a Brazilian programming student finishing the high school 📖
+### Hey there! I'm a Brazilian dev student!  📖
 
 <div>
   <a href="https://github.com/jvs4nt">
