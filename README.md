@@ -25,7 +25,3 @@
   <a href="https://steamcommunity.com/id/jfast007" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/2252x676k6rkpwq5vymlnchhi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
-  
-
-  
-  ![Snake animation](https://github.com/jvs4nt/jvs4nt/blob/output/github-contribution-grid-snake.svg)
