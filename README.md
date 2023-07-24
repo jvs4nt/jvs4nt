@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/jvs4nt">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jv4nt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs4nt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
@@ -26,4 +26,3 @@
   <a href="https://open.spotify.com/user/2252x676k6rkpwq5vymlnchhi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-santos-3b02a5220/) 
