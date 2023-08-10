@@ -1,7 +1,6 @@
-## Welcome to Sant's profile!
+## welcome to joão's profile!
 
-### Hey there! I'm a Brazilian dev student!  📖
-
+### hey there! I'm a Brazilian Software and Web Developer!  📖
 <div>
   <a href="https://github.com/jvs4nt">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,8 +16,6 @@
   <img width="130" height="130" align="right" alt="Sant-Shinobu" src="https://cdn.discordapp.com/attachments/821196932465950741/885570578742915142/fdb992c5d861c8d9e9400f403ab1f3f6.gif"
 
 </div>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=transparent)
 ##
   
 <div>
