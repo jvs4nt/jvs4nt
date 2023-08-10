@@ -18,7 +18,7 @@
 
 </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvs4nt&show_icons=true&theme=transparent)
 ##
   
 <div>
