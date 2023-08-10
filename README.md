@@ -17,7 +17,8 @@
   <img width="130" height="130" align="right" alt="Sant-Shinobu" src="https://cdn.discordapp.com/attachments/821196932465950741/885570578742915142/fdb992c5d861c8d9e9400f403ab1f3f6.gif"
 
 </div>
-  
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ##
   
 <div>
