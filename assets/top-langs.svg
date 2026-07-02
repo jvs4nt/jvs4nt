@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165">
+  <rect width="300" height="165" rx="4" fill="#1a1b27"/>
+  <text x="20" y="40" fill="#7aa2f7" font-family="monospace" font-size="16" font-weight="bold">Most Used Languages</text>
+  <text x="20" y="80" fill="#a9b1d6" font-family="monospace" font-size="13">Loading languages...</text>
+</svg>
