@@ -75,6 +75,7 @@ React · Vite · Fastify · Drizzle · PostgreSQL · React Flow
 
 #### 🏠 DreamPlanner
 <img src="https://img.shields.io/badge/🔒-Private-64748b?style=flat-square" alt="Private" />
+<img src="https://img.shields.io/badge/Live-Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
 <img src="https://img.shields.io/badge/3D-Planner-0EA5E9?style=flat-square" alt="3D Planner" />
 
 🇧🇷 Hub de planejamento de apartamento — finanças, checklist, documentos e editor 3D.
@@ -82,6 +83,10 @@ React · Vite · Fastify · Drizzle · PostgreSQL · React Flow
 🇺🇸 Apartment planning hub — finances, checklist, documents, and 3D editor.
 
 Next.js · Three.js · Drizzle · Neon · Capacitor
+
+<a href="https://dream-planner-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/▶_Live_Demo-dream--planner--xi.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="DreamPlanner Live Demo" />
+</a>
 
 </td>
 <td width="33%" valign="top">
