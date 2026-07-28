@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Jo&#227;o Santos' GitHub Stats, Rank: C+</title>
+        <title id="titleId">Jo&#227;o Santos&#39; GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 54, Total PRs: 11, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.71842270193005;
+        stroke-dashoffset: 200.47768763268945;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Jo&#227;o Santos' GitHub Stats</text>
+      >Jo&#227;o Santos&#39; GitHub Stats</text>
     </g>
       </g>
     
