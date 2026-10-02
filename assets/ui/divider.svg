@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="1200" height="6" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="6" rx="3"/></clipPath>
+    <style>
+      .sweep { animation: sweep 5s cubic-bezier(.6,0,.4,1) infinite; }
+      @keyframes sweep { from { transform: translateX(-320px); } to { transform: translateX(1200px); } }
+      @media (prefers-reduced-motion: reduce) { .sweep { animation: none; transform: translateX(440px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="6" fill="#7c3aed" fill-opacity="0.18"/>
+    <rect class="sweep" width="320" height="6" fill="url(#sweep)"/>
+  </g>
+</svg>

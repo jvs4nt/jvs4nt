@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="AI agents · node canvases · 3D in the browser · type-safe APIs · realtime UX · mobile with Capacitor · DX first · feito no Brasil">
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="#fff"/>
+      <stop offset="0.92" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade"><rect width="1200" height="56" fill="url(#edge)"/></mask>
+    <style>
+      .track { animation: scroll 25.4s linear infinite; }
+      @keyframes scroll { to { transform: translateX(-1525px); } }
+      @media (prefers-reduced-motion: reduce) { .track { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="56" rx="28" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="1199" height="55" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <g mask="url(#fade)" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="16" font-weight="700" letter-spacing="2">
+    <g class="track">
+      <g transform="translate(24 0)"><text x="0" y="37" fill="#c4b5fd">AI AGENTS</text><path d="M121 25l5 5-5 5-5-5z" fill="#565f89"/><text x="138" y="37" fill="#7dd3fc">NODE CANVASES</text><path d="M306 25l5 5-5 5-5-5z" fill="#565f89"/><text x="323" y="37" fill="#fcd34d">3D IN THE BROWSER</text><path d="M537 25l5 5-5 5-5-5z" fill="#565f89"/><text x="554" y="37" fill="#86efac">TYPE-SAFE APIS</text><path d="M734 25l5 5-5 5-5-5z" fill="#565f89"/><text x="751" y="37" fill="#f9a8d4">REALTIME UX</text><path d="M895 25l5 5-5 5-5-5z" fill="#565f89"/><text x="912" y="37" fill="#c4b5fd">MOBILE WITH CAPACITOR</text><path d="M1173 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1190" y="37" fill="#7dd3fc">DX FIRST</text><path d="M1300 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1317" y="37" fill="#86efac">FEITO NO BRASIL</text><path d="M1508 25l5 5-5 5-5-5z" fill="#565f89"/></g>
+      <g transform="translate(1549 0)"><text x="0" y="37" fill="#c4b5fd">AI AGENTS</text><path d="M121 25l5 5-5 5-5-5z" fill="#565f89"/><text x="138" y="37" fill="#7dd3fc">NODE CANVASES</text><path d="M306 25l5 5-5 5-5-5z" fill="#565f89"/><text x="323" y="37" fill="#fcd34d">3D IN THE BROWSER</text><path d="M537 25l5 5-5 5-5-5z" fill="#565f89"/><text x="554" y="37" fill="#86efac">TYPE-SAFE APIS</text><path d="M734 25l5 5-5 5-5-5z" fill="#565f89"/><text x="751" y="37" fill="#f9a8d4">REALTIME UX</text><path d="M895 25l5 5-5 5-5-5z" fill="#565f89"/><text x="912" y="37" fill="#c4b5fd">MOBILE WITH CAPACITOR</text><path d="M1173 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1190" y="37" fill="#7dd3fc">DX FIRST</text><path d="M1300 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1317" y="37" fill="#86efac">FEITO NO BRASIL</text><path d="M1508 25l5 5-5 5-5-5z" fill="#565f89"/></g>
+      <g transform="translate(3074 0)"><text x="0" y="37" fill="#c4b5fd">AI AGENTS</text><path d="M121 25l5 5-5 5-5-5z" fill="#565f89"/><text x="138" y="37" fill="#7dd3fc">NODE CANVASES</text><path d="M306 25l5 5-5 5-5-5z" fill="#565f89"/><text x="323" y="37" fill="#fcd34d">3D IN THE BROWSER</text><path d="M537 25l5 5-5 5-5-5z" fill="#565f89"/><text x="554" y="37" fill="#86efac">TYPE-SAFE APIS</text><path d="M734 25l5 5-5 5-5-5z" fill="#565f89"/><text x="751" y="37" fill="#f9a8d4">REALTIME UX</text><path d="M895 25l5 5-5 5-5-5z" fill="#565f89"/><text x="912" y="37" fill="#c4b5fd">MOBILE WITH CAPACITOR</text><path d="M1173 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1190" y="37" fill="#7dd3fc">DX FIRST</text><path d="M1300 25l5 5-5 5-5-5z" fill="#565f89"/><text x="1317" y="37" fill="#86efac">FEITO NO BRASIL</text><path d="M1508 25l5 5-5 5-5-5z" fill="#565f89"/></g>
+    </g>
+  </g>
+</svg>

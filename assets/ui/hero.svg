@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+  <title id="t">João Santos — Full-stack developer</title>
+  <desc id="d">Animated banner: João Santos, full-stack developer at 14Mob, Brazil. Building AI flow builders, 3D planners and finance tools.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="28"/></clipPath>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0a1a"/>
+      <stop offset="1" stop-color="#11131f"/>
+    </linearGradient>
+
+    <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="640" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 560 0; 0 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.6" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </radialGradient>
+
+    <radialGradient id="fade" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1200" height="400" fill="url(#fade)"/></mask>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+    </pattern>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style>
+      .sans { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Inter, "Helvetica Neue", Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+
+      .blob-a, .blob-b, .blob-c { transform-box: fill-box; transform-origin: center; }
+      .blob-a { animation: drift-a 18s ease-in-out infinite alternate; }
+      .blob-b { animation: drift-b 22s ease-in-out infinite alternate; }
+      .blob-c { animation: drift-c 26s ease-in-out infinite alternate; }
+      @keyframes drift-a { to { transform: translate(180px, 60px) scale(1.15); } }
+      @keyframes drift-b { to { transform: translate(-220px, -40px) scale(0.9); } }
+      @keyframes drift-c { to { transform: translate(120px, -80px) scale(1.2); } }
+
+      .grid { animation: grid 6s linear infinite; }
+      @keyframes grid { to { transform: translateY(40px); } }
+
+      .enter { animation: enter 0.9s cubic-bezier(.2,.8,.2,1) both; }
+      .d1 { animation-delay: .1s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .5s; } .d4 { animation-delay: .7s; }
+      @keyframes enter { from { opacity: 0; transform: translateY(16px); } }
+
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 960px 200px; }
+      @keyframes pulse { 50% { transform: scale(1.08); } }
+
+      .ring { transform-origin: 960px 200px; }
+      .r1 { animation: spin 9s linear infinite; }
+      .r2 { animation: spin 16s linear infinite reverse; }
+      .r3 { animation: spin 26s linear infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+
+      .live { animation: live 2s ease-out infinite; transform-origin: 96px 66px; }
+      @keyframes live { from { transform: scale(1); opacity: .8; } to { transform: scale(3); opacity: 0; } }
+
+      .word { opacity: 0; animation: word 12s ease-in-out infinite; }
+      .w1 { opacity: 1; animation-delay: 0s; }
+      .w2 { animation-delay: 3s; } .w3 { animation-delay: 6s; } .w4 { animation-delay: 9s; }
+      @keyframes word {
+        0%   { opacity: 0; transform: translateY(14px); }
+        3%, 22% { opacity: 1; transform: translateY(0); }
+        25%, 100% { opacity: 0; transform: translateY(-14px); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+
+    <g filter="url(#blur)" opacity="0.75">
+      <circle class="blob-a" cx="260" cy="80" r="190" fill="#7c3aed"/>
+      <circle class="blob-b" cx="980" cy="330" r="200" fill="#0ea5e9" opacity="0.7"/>
+      <circle class="blob-c" cx="620" cy="420" r="160" fill="#db2777" opacity="0.45"/>
+    </g>
+
+    <g mask="url(#gridMask)">
+      <rect class="grid" y="-40" width="1200" height="480" fill="url(#grid)"/>
+    </g>
+
+    <!-- left column -->
+    <g class="enter d1">
+      <rect x="80" y="50" width="292" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+      <circle class="live" cx="96" cy="66" r="5" fill="#22c55e"/>
+      <circle cx="96" cy="66" r="5" fill="#22c55e"/>
+      <text x="110" y="71" class="mono" font-size="13" fill="#d1d5db">open to interesting problems</text>
+    </g>
+
+    <text x="78" y="164" class="sans enter d2" font-size="76" font-weight="800" letter-spacing="-2" fill="url(#name)">João Santos</text>
+
+    <g class="enter d3">
+      <text x="82" y="210" class="sans" font-size="24" font-weight="500" fill="#e5e7eb">Full-stack developer <tspan fill="#a78bfa">@ 14Mob</tspan> · Brasil</text>
+      <text x="82" y="244" class="mono" font-size="16" fill="#9ca3af">TypeScript · React · Next.js · Node · Three.js</text>
+    </g>
+
+    <g class="enter d4">
+      <text x="82" y="318" class="mono" font-size="18" fill="#6b7280">$ building</text>
+      <g class="mono" font-size="18" font-weight="600">
+        <text class="word w1" x="196" y="318" fill="#c4b5fd">AI flow builders_</text>
+        <text class="word w2" x="196" y="318" fill="#7dd3fc">3D planners in the browser_</text>
+        <text class="word w3" x="196" y="318" fill="#fcd34d">personal finance tools_</text>
+        <text class="word w4" x="196" y="318" fill="#86efac">type-safe APIs end to end_</text>
+      </g>
+    </g>
+
+    <!-- right column: orbit system -->
+    <g opacity="0.95">
+      <circle cx="960" cy="200" r="70"  fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+      <circle cx="960" cy="200" r="115" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-dasharray="2 8"/>
+      <circle cx="960" cy="200" r="160" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+
+      <g class="ring r1">
+        <circle cx="1030" cy="200" r="7" fill="#7dd3fc" filter="url(#glow)"/>
+        <circle cx="890" cy="200" r="4" fill="#c4b5fd"/>
+      </g>
+      <g class="ring r2">
+        <circle cx="960" cy="85" r="8" fill="#a78bfa" filter="url(#glow)"/>
+        <circle cx="1060" cy="258" r="4" fill="#f9a8d4"/>
+        <circle cx="860" cy="258" r="5" fill="#7dd3fc"/>
+      </g>
+      <g class="ring r3">
+        <circle cx="800" cy="200" r="6" fill="#fcd34d" filter="url(#glow)"/>
+        <circle cx="1073" cy="87" r="4" fill="#86efac"/>
+        <circle cx="1073" cy="313" r="5" fill="#c4b5fd"/>
+      </g>
+
+      <g class="pulse">
+        <circle cx="960" cy="200" r="38" fill="url(#core)" filter="url(#glow)"/>
+        <text x="960" y="208" text-anchor="middle" class="mono" font-size="22" font-weight="700" fill="#ffffff">&lt;/&gt;</text>
+      </g>
+    </g>
+
+    <rect width="1200" height="400" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+</svg>

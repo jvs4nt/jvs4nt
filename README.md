@@ -1,134 +1,115 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Jo%C3%A3o+Santos+%E2%80%A2+Full-stack+Dev+%F0%9F%87%A7%F0%9F%87%B7;Dev+full-stack+do+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Full-stack+dev+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Building+AI+flow+builders+%26+3D+planners;Construindo+builders+de+fluxos+IA+%26+planners+3D;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node"
-    alt="Typing animation"
-  />
-</a>
+<img src="./assets/ui/hero.svg" width="100%" alt="João Santos — Full-stack developer @ 14Mob, Brasil. Building AI flow builders, 3D planners and finance tools." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7C3AED&height=90&section=header&text=jvs4nt&fontSize=38&fontColor=ffffff&animation=twinkling" alt="Header banner" />
+<p>
+  <a href="#about"><b>whoami</b></a> &nbsp;·&nbsp;
+  <a href="#projects"><b>projetos / projects</b></a> &nbsp;·&nbsp;
+  <a href="#activity"><b>atividade / activity</b></a> &nbsp;·&nbsp;
+  <a href="#stack"><b>stack</b></a> &nbsp;·&nbsp;
+  <a href="#connect"><b>contato / connect</b></a>
+</p>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-santos-3b02a5220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/jvs4nt?tab=followers"><img src="https://img.shields.io/github/followers/jvs4nt?style=flat-square&logo=github&label=followers&color=7C3AED" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=jvs4nt&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views" />
 
 </div>
 
-### 👋 Sobre mim · About me
+<img src="./assets/ui/divider.svg" width="100%" alt="" />
+
+<a name="about"></a>
+
+### `>_` whoami
+
+<img src="./assets/ui/terminal.svg" width="100%" alt="Terminal: João Santos, full-stack dev @ 14Mob, Brasil. Stack: React, Next.js, Three.js, React Flow, Tailwind · Node, Fastify, Express · PostgreSQL, Drizzle, Prisma, Supabase, Neon · Vercel, Capacitor, GitHub Actions." />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**PT** — Desenvolvedor full-stack @ **14Mob**, Brasil. Construo apps TypeScript de ponta a ponta: fluxos com IA, editores 3D no browser e ferramentas financeiras.
+🇧🇷 Desenvolvedor full-stack na **14Mob**. Construo apps TypeScript de ponta a ponta — da UI ao banco — com foco em **agentes de IA**, **3D no browser** e **ferramentas financeiras**. Gosto de interfaces que respondem rápido e de APIs que o compilador consegue provar.
 
 </td>
 <td width="50%" valign="top">
 
-**EN** — Full-stack developer @ **14Mob**, Brazil. I build end-to-end TypeScript apps: AI-powered flows, in-browser 3D editors, and personal finance tools.
+🇺🇸 Full-stack developer at **14Mob**. I build end-to-end TypeScript apps — from UI to database — focused on **AI agents**, **in-browser 3D** and **finance tools**. I like interfaces that feel instant and APIs the compiler can prove.
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/ui/ticker.svg" width="100%" alt="AI agents · node canvases · 3D in the browser · type-safe APIs · realtime UX · mobile with Capacitor · DX first · feito no Brasil" />
 
-### 📊 GitHub Stats
+<a name="projects"></a>
 
-<div align="center">
-  <img height="160" src="./assets/stats.svg" alt="GitHub stats" />
-  <img height="160" src="./assets/top-langs.svg" alt="Top languages" />
-</div>
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,express,postgres,prisma,supabase,vite" alt="Tech stack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-</div>
-
----
-
-### ⭐ Featured Projects · Projetos em destaque
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🔌 Conduit
-<img src="https://img.shields.io/badge/🔒-Private-64748b?style=flat-square" alt="Private" />
-<img src="https://img.shields.io/badge/Live-Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-
-🇧🇷 Builder visual de fluxos conversacionais com IA (canvas de nós)
-
-🇺🇸 Visual conversational flow builder with AI agents (node canvas)
-
-React · Vite · Fastify · Drizzle · PostgreSQL · React Flow
+### `✦` Projetos em destaque · Featured projects
 
 <a href="https://conduit-mu-six.vercel.app">
-  <img src="https://img.shields.io/badge/▶_Live_Demo-conduit--mu--six.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Conduit Live Demo" />
+  <img src="./assets/ui/card-conduit.svg" width="100%" alt="Conduit — visual conversational flow builder with AI agents. React, Vite, Fastify, Drizzle, PostgreSQL, React Flow. Live demo." />
 </a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🏠 DreamPlanner
-<img src="https://img.shields.io/badge/🔒-Private-64748b?style=flat-square" alt="Private" />
-<img src="https://img.shields.io/badge/Live-Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-<img src="https://img.shields.io/badge/3D-Planner-0EA5E9?style=flat-square" alt="3D Planner" />
-
-🇧🇷 Hub de planejamento de apartamento — finanças, checklist, documentos e editor 3D.
-
-🇺🇸 Apartment planning hub — finances, checklist, documents, and 3D editor.
-
-Next.js · Three.js · Drizzle · Neon · Capacitor
 
 <a href="https://dream-planner-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/▶_Live_Demo-dream--planner--xi.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="DreamPlanner Live Demo" />
+  <img src="./assets/ui/card-dreamplanner.svg" width="100%" alt="DreamPlanner — apartment planning hub with finances, checklist and 3D editor. Next.js, Three.js, Drizzle, Neon, Capacitor. Live demo." />
 </a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 💰 FinTrack
-<img src="https://img.shields.io/badge/📂-Public-22C55E?style=flat-square" alt="Public" />
-<img src="https://img.shields.io/badge/Finance-App-F59E0B?style=flat-square" alt="Finance" />
-
-🇧🇷 Organizador financeiro pessoal fullstack — ganhos, gastos, cartões e reservas.
-
-🇺🇸 Fullstack personal finance organizer — income, expenses, cards, and savings.
-
-React · Vite · Express · Prisma · Supabase
 
 <a href="https://github.com/jvs4nt/fintrack">
-  <img src="https://img.shields.io/badge/📂_Repository-jvs4nt%2Ffintrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="FinTrack Repository" />
+  <img src="./assets/ui/card-fintrack.svg" width="100%" alt="FinTrack — personal finance organizer: income, expenses, cards and savings. React, Vite, Express, Prisma, Supabase. Repository." />
 </a>
 
-</td>
-</tr>
-</table>
+<sub>💡 Clique em um card para abrir · Click a card to open it</sub>
 
----
+<img src="./assets/ui/divider.svg" width="100%" alt="" />
 
-### 🐍 Contribution Graph
+<a name="activity"></a>
+
+### `◷` Atividade · Activity
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Contribution snake" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/3d/contrib-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/3d/contrib-light.svg" />
+  <img src="./assets/3d/contrib-dark.svg" width="100%" alt="3D contribution graph" />
+</picture>
+
+<img src="./assets/stats.svg" height="165" alt="GitHub stats" />
+<img src="./assets/top-langs.svg" height="165" alt="Top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+  <img src="./assets/snake.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
+
+<sub>Gerado a cada 12h por GitHub Actions · Regenerated every 12h by GitHub Actions</sub>
+
 </div>
 
----
+<a name="stack"></a>
 
-### 🔗 Connect · Conecte-se
+### `⌘` Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-3b02a5220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jvs4nt/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://open.spotify.com/user/2252x676k6rkpwq5vymlnchhi" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,threejs,tailwind,vite&theme=dark" alt="TypeScript, React, Next.js, Node.js, Three.js, Tailwind, Vite" />
+<br />
+<img src="https://skillicons.dev/icons?i=express,postgres,prisma,supabase,vercel,androidstudio,githubactions&theme=dark" alt="Express, PostgreSQL, Prisma, Supabase, Vercel, Android, GitHub Actions" />
+
+</div>
+
+<img src="./assets/ui/divider.svg" width="100%" alt="" />
+
+<a name="connect"></a>
+
+<div align="center">
+
+### Bora construir algo? · Let's build something?
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-santos-3b02a5220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/jvs4nt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://open.spotify.com/user/2252x676k6rkpwq5vymlnchhi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7C3AED,100:1a1b27&height=110&section=footer&animation=twinkling" width="100%" alt="" />
+
 </div>
